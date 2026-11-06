@@ -1,0 +1,13 @@
+# List of Employees witten in format [name]:[uid]:[gid]:[sup-groups]:[comment]:[homedir]:[shell]
+
+mrkrabs:1011::wheel:CEO:::
+squidward:1012:Employee:Finance,IT:Manager:::
+sandy:1013:Employee:Finance:accountant:::
+plankton:1014:Employee:IT:Senior Engineer:::
+karen:1015:Employee:IT,Finance:Project Manager:::
+spongebob:1016:Employee::Team Leader:::
+gary:1017:Employee::Mascot::-:/sbin/nologin
+patrick:1018:Employee::Employee:::
+
+################################################################################################
+# New Onboards Go Here

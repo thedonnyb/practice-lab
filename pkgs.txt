@@ -1,0 +1,6 @@
+# Packages installed with DNF
+
+httpd
+flatpak
+~                                                                                                                                                            
+~
